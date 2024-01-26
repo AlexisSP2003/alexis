@@ -1,0 +1,7 @@
+[user]
+	email = asevillanopalma@gmail.com
+	name = AlexisSP2003
+[init]
+	defaultBranch = master
+[safe]
+	directory = %(prefix)///altair/usuaris/Alumnes/asevillano/
